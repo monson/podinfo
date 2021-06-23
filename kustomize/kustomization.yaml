@@ -5,4 +5,5 @@ resources:
   - deployment.yaml
   - service.yaml
   - cm-1.yaml
+  - cm-2.yaml
 
